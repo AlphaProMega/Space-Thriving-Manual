@@ -1,5 +1,9 @@
 # Space-Thriving-Manual
 
+This is a Legacy repository, new updates are at
+https://github.com/Eternally-Thriving-Grandmasterism
+since 2025.
+
 **From-scratch clean solutions for multiplanetary thriving**
 
 Mycelium/Daedalus Skin, propulsion, timelines, APAAGI ethics — no overlap shadows.
